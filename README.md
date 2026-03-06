@@ -44,4 +44,21 @@ Early identification of switching signals is therefore critical for telecom oper
 
 The analysis demonstrates how publicly available market data can support decision intelligence frameworks for customer retention strategy within the UK telecommunications sector.
 
+## Repository Structure
+
+data/  
+Contains the raw dataset used for analysis.
+
+images/  
+Stores visual outputs and charts generated during the analysis.
+
+notebook/  
+Contains the primary analysis notebook used to explore telecom switching behaviour.
+
+README.md  
+Project overview and documentation.
+
+TECHNICAL_NOTES  
+Additional analytical observations and implementation notes.
+
 The project highlights how analytical insights can move beyond reporting toward actionable strategic recommendations.
