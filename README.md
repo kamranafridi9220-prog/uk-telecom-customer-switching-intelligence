@@ -40,6 +40,16 @@ Although most customers remain with their telecom provider, a measurable proport
 
 Early identification of switching signals is therefore critical for telecom operators seeking to reduce churn risk.
 
+## Business Insight
+
+The findings suggest that telecom customer switching behaviour is not purely price-driven but often triggered by specific service experiences or competitive offers.
+
+This indicates that telecom providers could benefit from predictive analytics frameworks that identify early churn signals based on customer behaviour patterns. 
+
+By monitoring indicators such as service dissatisfaction, contract lifecycle stages, or exposure to competitor promotions, operators can implement targeted retention strategies before switching occurs.
+
+The analysis highlights how data-driven decision intelligence can support proactive customer retention within competitive telecom markets.
+
 ## Strategic Value
 
 The analysis demonstrates how publicly available market data can support decision intelligence frameworks for customer retention strategy within the UK telecommunications sector.
