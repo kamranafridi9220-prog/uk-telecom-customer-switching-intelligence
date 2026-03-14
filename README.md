@@ -98,3 +98,19 @@ Although this analysis focuses on the UK telecommunications sector, the analytic
 Customer switching dynamics observed in telecom markets closely resemble behaviour patterns seen in sectors such as broadband services, digital platforms, financial services, and software-as-a-service (SaaS) businesses.
 
 The framework demonstrated in this project illustrates how behavioural switching data can support decision-support systems aimed at improving customer retention, reducing churn risk, and strengthening long-term customer relationships.
+
+## Future Analytical Extensions
+
+This project focuses on exploratory analysis of telecom switching behaviour using publicly available survey data. However, several potential analytical extensions could further strengthen the insights derived from this dataset.
+
+Future work may include:
+
+• Predictive churn modelling to estimate switching probability for different customer profiles.
+
+• Sentiment and service quality analysis to understand how customer experience indicators influence switching decisions.
+
+• Contract lifecycle analysis to evaluate how switching behaviour changes near contract renewal periods.
+
+• Competitive market analysis to explore how promotional activity and pricing structures influence switching dynamics.
+
+These potential extensions demonstrate how telecom switching data could support more advanced analytics frameworks aimed at proactive churn prevention and long-term customer value optimisation.
