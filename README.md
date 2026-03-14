@@ -114,3 +114,9 @@ Future work may include:
 • Competitive market analysis to explore how promotional activity and pricing structures influence switching dynamics.
 
 These potential extensions demonstrate how telecom switching data could support more advanced analytics frameworks aimed at proactive churn prevention and long-term customer value optimisation.
+
+## Telecom Churn Decision Framework
+
+The following diagram illustrates how telecom switching insights can be translated into structured decision-support strategies for telecom operators.
+
+![Telecom Churn Framework](images/telecom-churn-framework.png)
