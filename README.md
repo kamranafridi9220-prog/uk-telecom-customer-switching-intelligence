@@ -72,3 +72,29 @@ TECHNICAL_NOTES
 Additional analytical observations and implementation notes.
 
 The project highlights how analytical insights can move beyond reporting toward actionable strategic recommendations.
+
+## Strategic Industry Implications
+
+The insights derived from the analysis highlight several strategic considerations for telecom operators operating in highly competitive markets.
+
+Customer retention should be prioritised alongside acquisition strategies, as switching behaviour is often triggered by identifiable dissatisfaction signals rather than random customer movement.
+
+Operators may benefit from monitoring behavioural indicators such as service complaints, contract renewal stages, and competitor exposure to identify customers at risk of switching.
+
+By integrating behavioural analytics into retention strategy, telecom providers can proactively intervene before switching occurs, improving long-term customer value and reducing churn-related revenue loss.
+
+## Decision Intelligence Perspective
+
+Rather than treating switching data purely as descriptive market statistics, this project interprets telecom switching behaviour through a decision-support lens.
+
+The analysis demonstrates how publicly available consumer behaviour data can be translated into structured decision signals for telecom operators.
+
+This approach highlights how analytics can move beyond reporting to support operational decision-making, retention strategy development, and proactive customer engagement within subscription-based service industries.
+
+## Transferability of the Framework
+
+Although this analysis focuses on the UK telecommunications sector, the analytical approach developed in this project is applicable to other subscription-based industries.
+
+Customer switching dynamics observed in telecom markets closely resemble behaviour patterns seen in sectors such as broadband services, digital platforms, financial services, and software-as-a-service (SaaS) businesses.
+
+The framework demonstrated in this project illustrates how behavioural switching data can support decision-support systems aimed at improving customer retention, reducing churn risk, and strengthening long-term customer relationships.
